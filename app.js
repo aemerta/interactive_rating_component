@@ -1,3 +1,6 @@
+ratingCard = document.querySelector('#rating-card')
+thankyouCard = document.querySelector('#thankyou-card')
+
 getParameter = (key) => {
   
     // Address of the current window
@@ -10,12 +13,8 @@ getParameter = (key) => {
     // with the provided key
     return parameterList.get(key)
 }
-console.log(getParameter("rating"))
 
-ratingCard = document.querySelector('#rating-card')
-thankyouCard = document.querySelector('#thankyou-card')
 rating = getParameter("rating")
-console.log(rating)
 
 if(rating){
     ratingCard.classList.add('hide');
