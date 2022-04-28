@@ -31,15 +31,12 @@ Users should be able to:
 
 ### Screenshot
 
-![images/ratingscreenshot.png]
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
+![./images/ratingscreenshot.png]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/aemerta/interactive_rating_component]
+- Live Site URL: [https://aemerta.github.io/interactive_rating_component/]
 
 ## My process
 
@@ -63,14 +60,7 @@ How to style radio button.
 - Need to refresh and practice mobile first approach.
 - clean up and use a better naming convention
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [https://www.twitter.com/aemerta]
